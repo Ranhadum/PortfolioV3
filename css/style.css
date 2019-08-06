@@ -1,0 +1,27 @@
+@font-face {
+    font-family: robotMono;
+    src: url(RobotoMono-Regular.ttf);
+}
+
+body{
+    background-color: #ececec
+}
+
+.robotText{
+    font-family: robotMono;
+    color: #494949;
+}
+
+.img-thumbnail {
+    background-color: #494949;
+}
+
+.photoM {
+    height: 150px;
+    width: 150px;
+}
+
+.icons {
+    color: #791c24;
+    font-size: 30px;
+}
