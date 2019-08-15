@@ -44,3 +44,6 @@ body{
 .active {
     background-color: rgb(151, 151, 151, 0.3);
 }
+.text {
+    font-size: 17px; 
+}
