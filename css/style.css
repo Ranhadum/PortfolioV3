@@ -26,8 +26,8 @@ body{
     font-size: 30px;
 }
 .projectPhoto {
-    width: 600px;
-    height: 480px;
+    width: 78%;
+    height: auto;
 }
 .navlink {
     width: 20px;
