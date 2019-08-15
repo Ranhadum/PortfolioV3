@@ -25,3 +25,16 @@ body{
     color: #791c24;
     font-size: 30px;
 }
+.projectPhoto {
+    width: 600px;
+    height: 480px;
+}
+.navlink {
+    width: 20px;
+}
+.nav-link:hover {
+    color: #791c24;
+}
+.active {
+    background-color: rgb(151, 151, 151, 0.3);
+}
