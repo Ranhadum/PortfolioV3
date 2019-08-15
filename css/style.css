@@ -21,6 +21,12 @@ body{
     width: 150px;
 }
 
+@media screen and (max-width: 600px) {
+    .icons{
+        font-size: 30px;
+    }
+}
+
 .icons {
     color: #791c24;
     font-size: 30px;
